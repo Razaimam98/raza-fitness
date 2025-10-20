@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://builder.bookipi.com/pages/raza-imam-s-company-c082/sitemap.xml
